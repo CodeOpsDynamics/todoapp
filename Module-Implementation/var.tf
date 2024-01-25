@@ -1,0 +1,15 @@
+variable "rg" {}
+variable "sa" {}
+variable "sb" {}
+variable "vm" {}
+variable "vnet" {}
+variable "vnet-p" {}
+variable "pip" {}
+variable "nsi" {}
+variable "nsg" {}
+variable "nic" {}
+variable "lb" {}
+variable "db" {}
+variable "dbs" {}
+variable "bs" {}
+variable "kv" {}
